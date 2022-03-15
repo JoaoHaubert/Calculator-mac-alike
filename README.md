@@ -1,4 +1,4 @@
-#Calculator Mac alike
+# Calculator Mac alike
 
 # Getting Started with Create React App
 
